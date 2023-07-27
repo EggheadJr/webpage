@@ -1,0 +1,79 @@
+<!-- wp:cover {"url":"https://dotcompatterns.files.wordpress.com/2021/04/pattern-links-gradient.jpeg","id":18,"dimRatio":0,"overlayColor":"primary","minHeight":100,"minHeightUnit":"vh","isDark":false,"align":"full"} -->
+<div class="wp-block-cover alignfull is-light" style="min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-18" alt="" src="https://dotcompatterns.files.wordpress.com/2021/04/pattern-links-gradient.jpeg" data-object-fit="cover" /><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:spacer {"height":"10px","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer wp-embed-aspect-16-9 wp-has-aspect-ratio"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"align":"center","id":54,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://trendytradehubcom.files.wordpress.com/2023/07/absolute_reality_v16_dressed_in_a_sleek_modern_design_trendytr_0-1-edited.jpg" alt="" class="wp-image-54" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"align":"wide","textColor":"background","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio","fontSize":"huge"} -->
+<h1 class="wp-block-heading alignwide has-text-align-center wp-embed-aspect-16-9 wp-has-aspect-ratio has-background-color has-text-color has-huge-font-size" id="freedom"><strong>TrendyTrendHub</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","textColor":"background","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<p class="has-text-align-center wp-embed-aspect-16-9 wp-has-aspect-ratio has-background-color has-text-color">by Egghead Jr AB</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"10px","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer wp-embed-aspect-16-9 wp-has-aspect-ratio"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:embed {"url":"https://youtu.be/yxM1oPGBOS8","type":"video","providerNameSlug":"youtube","responsive":true,"align":"wide","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/yxM1oPGBOS8
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:buttons {"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<div class="wp-block-buttons wp-embed-aspect-16-9 wp-has-aspect-ratio"><!-- wp:button {"textColor":"background","width":50,"style":{"color":{"gradient":"linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-fill"><a class="wp-block-button__link has-background-color has-text-color has-background wp-element-button" style="background:linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)">Kids</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textColor":"background","width":50,"style":{"color":{"gradient":"linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-fill"><a class="wp-block-button__link has-background-color has-text-color has-background wp-element-button" style="background:linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)">Nike</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textColor":"background","width":50,"style":{"color":{"gradient":"linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-fill"><a class="wp-block-button__link has-background-color has-text-color has-background wp-element-button" style="background:linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"><strong>B &amp; O</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textColor":"background","width":50,"style":{"color":{"gradient":"linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-fill"><a class="wp-block-button__link has-background-color has-text-color has-background wp-element-button" style="background:linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"><strong>Fjällräven</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textColor":"background","width":50,"style":{"color":{"gradient":"linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-fill"><a class="wp-block-button__link has-background-color has-text-color has-background wp-element-button" style="background:linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"><strong>H&amp;M</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textColor":"background","width":50,"style":{"color":{"gradient":"linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-fill"><a class="wp-block-button__link has-background-color has-text-color has-background wp-element-button" style="background:linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)">YouTube</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textColor":"background","width":50,"style":{"color":{"gradient":"linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-fill"><a class="wp-block-button__link has-background-color has-text-color has-background wp-element-button" style="background:linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)">Loppis</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"textColor":"background","width":50,"style":{"color":{"gradient":"linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)"}},"className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-fill"><a class="wp-block-button__link has-background-color has-text-color has-background wp-element-button" style="background:linear-gradient(0deg,rgba(255,255,255,0.2) 0%,rgba(255,255,255,0.2) 100%)">Blog</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"20px","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer wp-embed-aspect-16-9 wp-has-aspect-ratio"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:social-links {"iconColor":"background","iconColorValue":"#ffffff","align":"center","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio is-style-logos-only"} -->
+<ul class="wp-block-social-links aligncenter has-icon-color wp-embed-aspect-16-9 wp-has-aspect-ratio is-style-logos-only"><!-- wp:social-link {"url":"https://linkedin.com/","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"https://twitter.com/","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"https://instagram.com/","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
